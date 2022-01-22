@@ -6,7 +6,11 @@ In the past few years I've also been:
 👨‍💻 a machine learning scientist working with privacy-preserving machine learning at [Owkin](https://www.owkin.com), in Paris, France (2018-2020)  
 👨‍🎓 a postdoc working with approximate Bayesian inference at ENS/CEA/Inria (mostly with [Florent](https://florentkrzakala.com/) and [Lenka](https://people.epfl.ch/lenka.zdeborova)), in Paris, France (2015-2018)  
 
-Most of the repos you'll find here are kind of old, and related to work I did either at Owkin or during my postdoc. In particular:
+Among repos that I own or contribute to, only a handful are up-to-date:
+
+- [microsoft/msrflute](https://github.com/microsoft/msrflute): federated learning simulation platform developed by our team at MSR
+
+Otherwise, most of them are kind of old, and related to work I did either at Owkin or during my postdoc. In particular:
 
 - [owkin/grad-cnns](https://github.com/owkin/grad-cnns/tree/master/code): speeding up per-sample computations in CNNs, useful for differentially-private learning <sub>(cf. [2020 TPDP paper](https://arxiv.org/abs/1912.06015))</sub>  
 - [sphinxteam/dnner](https://github.com/sphinxteam/dnner/tree/master/dnner): computing mutual informations in deep neural networks <sub>(cf. [2018 NeurIPS paper](https://arxiv.org/pdf/1805.09785))</sub>  
