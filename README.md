@@ -15,6 +15,6 @@ Otherwise, most of them are kind of old, and related to work I did either at Owk
 - [owkin/grad-cnns](https://github.com/owkin/grad-cnns/tree/master/code): speeding up per-sample computations in CNNs, useful for differentially-private learning <sub>(cf. [2020 TPDP paper](https://arxiv.org/abs/1912.06015))</sub>  
 - [sphinxteam/dnner](https://github.com/sphinxteam/dnner/tree/master/dnner): computing mutual informations in deep neural networks <sub>(cf. [2018 NeurIPS paper](https://arxiv.org/pdf/1805.09785))</sub>  
 - [sphinxteam/AMP_tutorial](https://github.com/sphinxteam/AMP_tutorial): notebooks about approximate message-passing <sub>(tutorial during [Florent and Lenka's course at Duke](https://sphinxteam.github.io/DukeLecture2018/))</sub>  
-- [ndrmnl/twamp](https://github.com/ndrmnl/twamp): approximate message-passing + non-separable penalties <sub>(cf. [this preprint](https://arxiv.org/abs/1809.06304))</sub>  
+- [amanoel/twamp](https://github.com/amanoel/twamp): approximate message-passing + non-separable penalties <sub>(cf. [this preprint](https://arxiv.org/abs/1809.06304))</sub>  
 
 If you need to talk with me, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/andre-manoel/)!
