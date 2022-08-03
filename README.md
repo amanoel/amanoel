@@ -6,9 +6,10 @@ In the past few years I've also been:
 👨‍💻 a machine learning scientist working with privacy-preserving machine learning at [Owkin](https://www.owkin.com), in Paris, France (2018-2020)  
 👨‍🎓 a postdoc working with approximate Bayesian inference at ENS/CEA/Inria (mostly with [Florent](https://florentkrzakala.com/) and [Lenka](https://people.epfl.ch/lenka.zdeborova)), in Paris, France (2015-2018)  
 
-Among repos that I own or contribute to, only a handful are up-to-date:
+Among repos that I either own or contribute to, there are a couple that are up-to-date:
 
 - [microsoft/msrflute](https://github.com/microsoft/msrflute): federated learning simulation platform developed by our team at MSR
+- [microsoft/dp-transformers](https://github.com/microsoft/dp-transformers): train differentially-private transformers by combining Opacus and 🤗 Transformers
 
 Otherwise, most of them are kind of old, and related to work I did either at Owkin or during my postdoc. In particular:
 
