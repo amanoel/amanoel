@@ -1,6 +1,5 @@
 Hi, I'm Andre :) I work with R&D in topics broadly related to machine learning, privacy and healthcare.
-I'm currently a [research engineer at Microsoft Research at Redmond](https://www.microsoft.com/en-us/research/people/amonteiroman/) (but I work remotely from Brazil).
-In the past few years I've also been:
+I'm currently a senior software engineer at Microsoft, working remotely from Brazil. In the past few years I've also been:
 
 👨‍🔬 a data scientist working in healthcare at [Hospital Israelita Albert Einstein](https://www.einstein.br), in São Paulo, Brazil (2020-2021)  
 👨‍💻 a machine learning scientist working with privacy-preserving machine learning at [Owkin](https://www.owkin.com), in Paris, France (2018-2020)  
