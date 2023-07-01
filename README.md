@@ -1,5 +1,5 @@
 Hi, I'm Andre :) I work with R&D in topics broadly related to machine learning, privacy and healthcare.
-I'm currently a senior software engineer at Microsoft, working remotely from Brazil. In the past few years I've also been:
+I'm currently a senior researcher at Microsoft, working remotely from Brazil. In the past few years I've also been:
 
 👨‍🔬 a data scientist working in healthcare at [Hospital Israelita Albert Einstein](https://www.einstein.br), in São Paulo, Brazil (2020-2021)  
 👨‍💻 a machine learning scientist working with privacy-preserving machine learning at [Owkin](https://www.owkin.com), in Paris, France (2018-2020)  
@@ -7,7 +7,7 @@ I'm currently a senior software engineer at Microsoft, working remotely from Bra
 
 Among repos that I contribute to, there are a couple that are up-to-date:
 
-- [microsoft/msrflute](https://github.com/microsoft/msrflute): federated learning simulation platform developed by our team at MSR
+- [microsoft/msrflute](https://github.com/microsoft/msrflute): federated learning simulation platform developed by our team at Microsoft
 - [microsoft/dp-transformers](https://github.com/microsoft/dp-transformers): train differentially-private transformers by combining Opacus and 🤗 Transformers
 
 Otherwise, most of them are kind of old, and related to work I did either at Owkin or during my postdoc. In particular:
